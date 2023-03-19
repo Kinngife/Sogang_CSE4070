@@ -1,35 +1,31 @@
 # Sogang_CSE4070
 서강대학교_운영체제_2022년도 2학기
-proj0-1 : Installing PintOS
 
-PintOS 설치와 기본 환경설정
+**proj0-1** : Installing PintOS
+> PintOS 설치와 기본 환경설정
 
-proj0-2 : PintOS Data Structures
+**proj0-2** : PintOS Data Structures
+> List, Hash Table, Bitmap 등의 PintOS 자료구조 구현
 
-List, Hash Table, Bitmap 등의 PintOS 자료구조 구현
+**proj01** : User Program (1)
+> Argument Passing
 
-proj1 : User Program (1)
+> User Memory Access
 
-Argument Passing
+> System Call Handler
 
-User Memory Access
+> System Call Implementation
 
-System Call Handler
+> Additional Implementation
 
-System Call Implementation
+**proj02** : User Program (2)
+> Base File System
 
-Additional Implementation
+> File System Call Implementation
 
-proj2 : User Program (2)
+**proj03** : Threads
+> Process Scheduling
 
-Base File System
+> Threads
 
-File System Call Implementation
-
-proj3 : Threads
-
-Process Scheduling
-
-Threads
-
-Synchronization
+> Synchronization
